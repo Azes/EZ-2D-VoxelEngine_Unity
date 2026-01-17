@@ -17,6 +17,12 @@ for learning, experimenting, and building your own voxel-based games.
 - Modular architecture for easy expansion
 - Designed for 2D sandbox and voxel-style games
 
+![World Generation](images/w1.png)
+![Water](images/water.png)
+![Smooth Light](images/l1.png)
+![Pixel Light](images/l2.png)
+![Dynamic Light](images/l3.png)
+
 ## Engine Philosophy
 
 The goal of EZ-2D-VoxelEngine is to provide a solid and efficient core that developers
